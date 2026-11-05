@@ -1,0 +1,6 @@
+# app-ads.txt for Tidepool
+# Publisher ID: pub-4191785503422012 (AdMob account developerkwayu@gmail.com).
+# Host this file at the ROOT of the developer website listed on your
+# Google Play / App Store listing, e.g. https://yourstudio.com/app-ads.txt
+# If you add mediation networks later, append the lines they give you.
+google.com, pub-4191785503422012, DIRECT, f08c47fec0942fa0
